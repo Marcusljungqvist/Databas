@@ -1,4 +1,4 @@
-
+1
 
 <?php
 $stmt = $pdo->prepare('SELECT * FROM products');
